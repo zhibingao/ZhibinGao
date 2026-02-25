@@ -22,7 +22,7 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
       
-  - align: left
+
     image: 
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
@@ -30,10 +30,9 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
 
----
-
----
-已毕业学生：
+  - align: left
+  
+  - 已毕业学生：
 
   - 2024年本科毕设同学：刘博坤，薛亮
   - 博士研究生：黄滇（与能动学院唐桂华教授联陪）
@@ -48,5 +47,8 @@ profiles:
     - 舒国钰（2024.07），物理强基班，已经成功保研到西安交通大学物理学院（直博）
     - 于佳艺（2024.07），计算机专业，已经成功考研到武汉大学计算机学院
     - 刘一鸣（2024.07），物理强基班，新加坡国立大学物理学院博士
-
+      
 ---
+
+
+
