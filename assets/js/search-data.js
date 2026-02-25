@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "金属材料强度国家重点实验室，所属团队 孙军院士：https://gr.xjtu.edu.cn/en/web/junsun/  丁向东教授：https://gr.xjtu.edu.cn/en/web/dingxd/3  Turab Lookman：https://scholar.google.com/citations?user=9SNxXpUAAAAJ&amp;hl=en&amp;oi=ao",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
