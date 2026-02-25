@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-恭喜王晓莹博士在materials-today-physics上发表论文an-interpretable-formula-for-lattice-thermal-conductivity",
+          title: '恭喜王晓莹博士在Materials Today Physics上发表论文An interpretable formula for lattice thermal conductivity',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
