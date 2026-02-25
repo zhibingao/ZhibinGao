@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-12-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+恭喜刘宇杰获得2024年中国移动创客马拉松大赛三等奖
