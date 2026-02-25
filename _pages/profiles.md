@@ -3,9 +3,9 @@ layout: profiles
 permalink: /people/
 title: people
 description: 金属材料强度国家重点实验室，所属团队：
-孙军院士：https://gr.xjtu.edu.cn/en/web/junsun/ 
-丁向东教授：https://gr.xjtu.edu.cn/en/web/dingxd/3 
-Turab Lookman：https://scholar.google.com/citations?user=9SNxXpUAAAAJ&hl=en&oi=ao
+<p>孙军院士：https://gr.xjtu.edu.cn/en/web/junsun/ <p>
+<p>丁向东教授：https://gr.xjtu.edu.cn/en/web/dingxd/3 <p>
+<p>Turab Lookman：https://scholar.google.com/citations?user=9SNxXpUAAAAJ&hl=en&oi=ao<p>
 
 nav: true
 nav_order: 7
