@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:School of Materials Science and Engineering, State Key Laboratory for Mechanical Behavior of Materials
+subtitle: School of Materials Science and Engineering, State Key Laboratory for Mechanical Behavior of Materials
 
 profile:
   align: right
